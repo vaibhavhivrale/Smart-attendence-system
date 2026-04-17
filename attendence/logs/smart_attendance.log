@@ -1,0 +1,200 @@
+[2026-04-17 23:46:34] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:34] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:34] INFO     auth                 │ Default admin account created (username: admin).
+[2026-04-17 23:46:34] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:45] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:45] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:45] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:54] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:54] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:54] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:55] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:55] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:55] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:55] INFO     auth                 │ Admin login successful: admin
+[2026-04-17 23:46:55] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:55] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:55] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:56] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:56] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:56] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:46:58] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:46:58] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:46:58] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:47:11] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:47:11] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:47:11] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:47:15] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:47:15] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:47:15] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:47:32] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:47:32] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:47:32] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:47:32] INFO     db                   │ Registered user: Vaibhav (A001)
+[2026-04-17 23:47:32] DEBUG    face_system          │ Attempting to open webcam at index 0...
+[2026-04-17 23:47:34] INFO     face_system          │ Webcam index 0 successfully opened.
+[2026-04-17 23:47:43] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:47:43] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:47:43] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:48:03] DEBUG    face_system          │ Captured face sample 1/30 for A001
+[2026-04-17 23:48:04] DEBUG    face_system          │ Captured face sample 2/30 for A001
+[2026-04-17 23:48:04] DEBUG    face_system          │ Captured face sample 3/30 for A001
+[2026-04-17 23:48:05] DEBUG    face_system          │ Captured face sample 4/30 for A001
+[2026-04-17 23:48:06] DEBUG    face_system          │ Captured face sample 5/30 for A001
+[2026-04-17 23:48:07] DEBUG    face_system          │ Captured face sample 6/30 for A001
+[2026-04-17 23:48:07] DEBUG    face_system          │ Captured face sample 7/30 for A001
+[2026-04-17 23:48:08] DEBUG    face_system          │ Captured face sample 8/30 for A001
+[2026-04-17 23:48:08] DEBUG    face_system          │ Captured face sample 9/30 for A001
+[2026-04-17 23:48:08] DEBUG    face_system          │ Captured face sample 10/30 for A001
+[2026-04-17 23:48:09] DEBUG    face_system          │ Captured face sample 11/30 for A001
+[2026-04-17 23:48:09] DEBUG    face_system          │ Captured face sample 12/30 for A001
+[2026-04-17 23:48:09] DEBUG    face_system          │ Captured face sample 13/30 for A001
+[2026-04-17 23:48:10] DEBUG    face_system          │ Captured face sample 14/30 for A001
+[2026-04-17 23:48:10] DEBUG    face_system          │ Captured face sample 15/30 for A001
+[2026-04-17 23:48:11] DEBUG    face_system          │ Captured face sample 16/30 for A001
+[2026-04-17 23:48:11] DEBUG    face_system          │ Captured face sample 17/30 for A001
+[2026-04-17 23:48:12] DEBUG    face_system          │ Captured face sample 18/30 for A001
+[2026-04-17 23:48:12] DEBUG    face_system          │ Captured face sample 19/30 for A001
+[2026-04-17 23:48:13] DEBUG    face_system          │ Captured face sample 20/30 for A001
+[2026-04-17 23:48:13] DEBUG    face_system          │ Captured face sample 21/30 for A001
+[2026-04-17 23:48:14] DEBUG    face_system          │ Captured face sample 22/30 for A001
+[2026-04-17 23:48:14] DEBUG    face_system          │ Captured face sample 23/30 for A001
+[2026-04-17 23:48:15] DEBUG    face_system          │ Captured face sample 24/30 for A001
+[2026-04-17 23:48:16] DEBUG    face_system          │ Captured face sample 25/30 for A001
+[2026-04-17 23:48:17] DEBUG    face_system          │ Captured face sample 26/30 for A001
+[2026-04-17 23:48:17] DEBUG    face_system          │ Captured face sample 27/30 for A001
+[2026-04-17 23:48:18] DEBUG    face_system          │ Captured face sample 28/30 for A001
+[2026-04-17 23:48:18] DEBUG    face_system          │ Captured face sample 29/30 for A001
+[2026-04-17 23:48:18] DEBUG    face_system          │ Captured face sample 30/30 for A001
+[2026-04-17 23:48:19] INFO     face_system          │ Finished capturing 30 images for Vaibhav (A001).
+[2026-04-17 23:48:19] INFO     face_system          │ Generating encodings (LBPH Training)...
+[2026-04-17 23:48:25] INFO     face_system          │ Successfully trained 60 face samples across 2 users.
+[2026-04-17 23:48:37] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:48:37] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:48:37] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:48:44] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:48:44] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:48:45] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:48:48] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:48:48] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:48:48] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:48:50] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:48:50] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:48:50] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:48:55] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:48:55] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:48:56] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:00] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:00] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:00] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:02] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:02] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:02] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:04] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:04] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:04] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:12] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:12] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:13] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:16] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:16] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:16] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:24] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:24] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:24] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:24] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:24] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:24] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:27] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:28] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:28] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:30] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:30] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:30] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:37] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:37] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:37] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:49:40] INFO     face_system          │ Loaded encodings with 2 user templates.
+[2026-04-17 23:49:40] DEBUG    face_system          │ Attempting to open webcam at index 0...
+[2026-04-17 23:49:48] INFO     face_system          │ Webcam index 0 successfully opened.
+[2026-04-17 23:49:50] DEBUG    face_system          │ Face at (247,179): ID=1, dist=29.79 (threshold=75)
+[2026-04-17 23:49:50] DEBUG    face_system          │ Match: A001 (70% confidence)
+[2026-04-17 23:49:50] INFO     db                   │ Attendance IN: student=A001 date=2026-04-17 time=23:49:50
+[2026-04-17 23:49:51] DEBUG    face_system          │ Face at (252,173): ID=1, dist=29.05 (threshold=75)
+[2026-04-17 23:49:51] DEBUG    face_system          │ Match: A001 (71% confidence)
+[2026-04-17 23:49:52] DEBUG    face_system          │ Face at (254,172): ID=1, dist=28.93 (threshold=75)
+[2026-04-17 23:49:52] DEBUG    face_system          │ Match: A001 (71% confidence)
+[2026-04-17 23:49:52] DEBUG    face_system          │ Face at (248,172): ID=1, dist=28.07 (threshold=75)
+[2026-04-17 23:49:52] DEBUG    face_system          │ Match: A001 (72% confidence)
+[2026-04-17 23:49:53] DEBUG    face_system          │ Face at (262,180): ID=1, dist=31.52 (threshold=75)
+[2026-04-17 23:49:53] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:53] DEBUG    face_system          │ Face at (260,174): ID=1, dist=31.74 (threshold=75)
+[2026-04-17 23:49:53] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:54] DEBUG    face_system          │ Face at (256,173): ID=1, dist=31.75 (threshold=75)
+[2026-04-17 23:49:54] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:55] DEBUG    face_system          │ Face at (254,172): ID=1, dist=33.01 (threshold=75)
+[2026-04-17 23:49:55] DEBUG    face_system          │ Match: A001 (67% confidence)
+[2026-04-17 23:49:55] DEBUG    face_system          │ Face at (257,176): ID=1, dist=31.70 (threshold=75)
+[2026-04-17 23:49:55] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Face at (256,169): ID=1, dist=31.63 (threshold=75)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Face at (257,172): ID=1, dist=31.56 (threshold=75)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Face at (252,167): ID=1, dist=32.49 (threshold=75)
+[2026-04-17 23:49:56] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:57] DEBUG    face_system          │ Face at (253,171): ID=1, dist=29.33 (threshold=75)
+[2026-04-17 23:49:57] DEBUG    face_system          │ Match: A001 (71% confidence)
+[2026-04-17 23:49:57] DEBUG    face_system          │ Face at (254,175): ID=1, dist=29.70 (threshold=75)
+[2026-04-17 23:49:57] DEBUG    face_system          │ Match: A001 (70% confidence)
+[2026-04-17 23:49:58] DEBUG    face_system          │ Face at (241,168): ID=1, dist=28.18 (threshold=75)
+[2026-04-17 23:49:58] DEBUG    face_system          │ Match: A001 (72% confidence)
+[2026-04-17 23:49:58] DEBUG    face_system          │ Face at (243,166): ID=1, dist=31.55 (threshold=75)
+[2026-04-17 23:49:58] DEBUG    face_system          │ Match: A001 (68% confidence)
+[2026-04-17 23:49:58] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:49:58] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:49:58] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:00] DEBUG    face_system          │ Face at (234,163): ID=1, dist=28.26 (threshold=75)
+[2026-04-17 23:50:00] DEBUG    face_system          │ Match: A001 (72% confidence)
+[2026-04-17 23:50:02] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:02] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:02] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:02] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:02] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:03] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:45] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:45] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:45] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:48] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:48] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:49] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:49] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:49] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:51] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:52] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:52] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:52] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:54] INFO     auth                 │ Admin login successful: admin
+[2026-04-17 23:50:55] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:55] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:55] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:50:57] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:50:57] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:50:57] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:51:01] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:51:02] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:51:02] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:51:18] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:51:18] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:51:18] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:51:22] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:51:22] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:51:22] INFO     db                   │ Database initialization complete.
+[2026-04-17 23:51:23] INFO     face_system          │ Loaded encodings with 2 user templates.
+[2026-04-17 23:51:23] DEBUG    face_system          │ Attempting to open webcam at index 0...
+[2026-04-17 23:51:27] INFO     face_system          │ Webcam index 0 successfully opened.
+[2026-04-17 23:51:28] DEBUG    face_system          │ Face at (210,161): ID=1, dist=29.14 (threshold=75)
+[2026-04-17 23:51:28] DEBUG    face_system          │ Match: A001 (71% confidence)
+[2026-04-17 23:51:28] INFO     db                   │ Attendance OUT: student=A001 date=2026-04-17 time=23:51:28
+[2026-04-17 23:51:47] INFO     app                  │ Smart Attendance System starting up...
+[2026-04-17 23:51:47] INFO     db                   │ Initializing database at C:\Users\hivra\OneDrive\Desktop\New folder\projects\attendence\attendance.db
+[2026-04-17 23:51:47] INFO     db                   │ Database initialization complete.
